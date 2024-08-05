@@ -19,4 +19,4 @@ Feature: Add new Address for newly created user
     Then Checks if the address has been deleted.
     Examples:
       | alias  | address               | city    | zip_postal_code | country | phone         |
-      | Kirich | 47, Grabiszynska Ave. | Wroclaw | 53505           | Ukraine | +380998887766 |
+      | Kirich | 47, Grabiszynska Ave. | Wroclaw | 53505           | Poland | +48452141948 |
